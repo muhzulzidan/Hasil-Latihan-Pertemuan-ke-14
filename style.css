@@ -1,0 +1,21 @@
+.nav-item {
+  color: #7eb5a6;
+}
+
+.header > .judul,
+.paragraph {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.daftar-baru > h1,
+form {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.table-dark > tr,
+th {
+  margin-left: 20px;
+  margin-right: 20px;
+}
